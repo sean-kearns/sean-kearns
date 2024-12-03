@@ -11,7 +11,7 @@ I'm **Sean**, a passionate data engineer and full-stack developer with a focus o
   I'm working on projects that bring **health and fitness data** to life with the power of **Large Language Models (LLMs)**. By integrating user insights into conversational interfaces, I'm making health data more interactive, actionable, and personalized.
 
 - **🔎 Hidden Code**  
-  Many of my projects aren't directly visible on GitHub, but you can learn more about my work—like creating tailored pipelines for health data and enabling personalized insights—on my site: [seanpjk.com](https://seanpjk.com).
+  Many of my projects aren't directly visible on GitHub, but you can learn more about my work—like creating tailored pipelines for health data and enabling personalized insights—on my site: [seanpjk.com](https://bit.ly/4dMkhTz).
 
 ## 💻 Current Projects
 
